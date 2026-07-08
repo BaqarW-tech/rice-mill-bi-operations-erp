@@ -1,0 +1,26 @@
+customer_id,customer_name,customer_type,region,credit_limit,payment_terms_days
+1,Al Rajhi Foods 1,Wholesaler,Dammam,50000,30
+2,Local Retail Co 2,Retailer,Jeddah,100000,15
+3,Gulf Exporters 3,Wholesaler,Dammam,50000,30
+4,Al Rajhi Foods 4,Retailer,Riyadh,300000,45
+5,Local Retail Co 5,Exporter,Dammam,200000,30
+6,Jeddah Wholesale 6,Retailer,Qassim,100000,60
+7,Local Retail Co 7,Exporter,Hail,300000,15
+8,Gulf Exporters 8,Wholesaler,Hail,200000,60
+9,Local Retail Co 9,Wholesaler,Al-Ahsa,300000,60
+10,Al Rajhi Foods 10,Exporter,Hail,100000,60
+11,Al Rajhi Foods 11,Retailer,Riyadh,100000,60
+12,Riyadh Mart 12,Retailer,Jazan,200000,30
+13,Local Retail Co 13,Retailer,Hail,100000,60
+14,Jeddah Wholesale 14,Wholesaler,Qassim,300000,30
+15,Gulf Exporters 15,Wholesaler,Riyadh,200000,60
+16,Riyadh Mart 16,Retailer,Hail,200000,45
+17,Local Retail Co 17,Retailer,Jeddah,300000,60
+18,Jeddah Wholesale 18,Wholesaler,Dammam,50000,45
+19,Riyadh Mart 19,Exporter,Hail,200000,30
+20,Al Rajhi Foods 20,Wholesaler,Jeddah,50000,15
+21,Gulf Exporters 21,Wholesaler,Riyadh,300000,30
+22,Local Retail Co 22,Exporter,Hail,300000,15
+23,Jeddah Wholesale 23,Retailer,Jeddah,200000,15
+24,Al Rajhi Foods 24,Retailer,Jazan,100000,60
+25,Riyadh Mart 25,Wholesaler,Al-Ahsa,200000,15

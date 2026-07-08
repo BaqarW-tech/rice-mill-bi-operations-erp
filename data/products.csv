@@ -1,0 +1,7 @@
+product_id,product_name,category,unit_cost,unit_price,min_stock_kg
+1,Premium Basmati Rice,Basmati,3.1,4.6,8000
+2,Sella Rice,Sella,2.7,4.0,8000
+3,Long Grain White Rice,Long Grain,2.5,3.6,10000
+4,Broken Rice,Broken,1.6,2.3,6000
+5,Rice Bran,By-product,0.7,1.2,4000
+6,Husk (fuel-grade),By-product,0.2,0.45,5000

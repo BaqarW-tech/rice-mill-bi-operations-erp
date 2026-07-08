@@ -1,0 +1,10 @@
+account_id,account_code,account_name,account_type
+1,1000,Cash & Bank,Asset
+2,1100,Accounts Receivable,Asset
+3,1200,Inventory,Asset
+4,2000,Accounts Payable,Liability
+5,3000,Owner's Equity,Equity
+6,4000,Sales Revenue,Revenue
+7,5000,Cost of Goods Sold,Expense
+8,5100,Operating Expenses,Expense
+9,5200,Salaries Expense,Expense

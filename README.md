@@ -8,6 +8,7 @@ An end-to-end Business Intelligence (BI) platform for rice mill operations — p
 
 ---
 
+# Live Demo
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rice-mill-bi-operations-erp-3ey3rwdszjadztctpdd6um.streamlit.app/)
 
 ---

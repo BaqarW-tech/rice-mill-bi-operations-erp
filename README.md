@@ -1,7 +1,7 @@
 # Rice Mill Business Intelligence System
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
-[Live Demo](https://rice-mill-bi-operations-erp-3ey3rwdszjadztctpdd6um.streamlit.app/)
+![Streamlit App] (https://rice-mill-bi-operations-erp-3ey3rwdszjadztctpdd6um.streamlit.app/)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-portfolio%20demo-lightgrey)
 

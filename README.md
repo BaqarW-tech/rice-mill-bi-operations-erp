@@ -1,13 +1,17 @@
 # Rice Mill Business Intelligence System
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
-![Streamlit](https://rice-mill-bi-operations-erp-3ey3rwdszjadztctpdd6um.streamlit.app/)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-portfolio%20demo-lightgrey)
 
 An end-to-end Business Intelligence (BI) platform for rice mill operations — paddy procurement, milling, inventory, sales, and accounting — built on a 13-table relational data model with automated double-entry bookkeeping and time-series forecasting.
 
 Note on badges: this repository doesn't yet have a CI pipeline or a test-coverage report, so I'm not shipping build-status or coverage badges — adding those honestly would require actually wiring up GitHub Actions and pytest first (see [Contributing](#contributing)).
+
+---
+# Live Demo
+
+(https://rice-mill-bi-operations-erp-3ey3rwdszjadztctpdd6um.streamlit.app/) 
 
 ---
 
